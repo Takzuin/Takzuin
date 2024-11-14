@@ -7,7 +7,7 @@
 - :package: Building [RussianRouletteGame](https://github.com/Takzuin/RussianRouletteGame), [PyCyberSecurity](https://github.com/Takzuin/PyCyberSecurity) and more comming...
 - :pencil2: NotePad & VS Code & PyCharm &  Vim.
 - 🤙: :email: `takzuin at gmail.com` :airplane: [Telegram](https://t.me/Takzuin).
-- 💻: My Distros: 'Linux',  .
+- 💻: My Distros: `Windows`, `Linux`, `Debian`.
 
 ![ChungZH's github stats](https://github-readme-stats.vercel.app/api?username=ChungZH&theme=gruvbox&show_icons=true)
 
