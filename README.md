@@ -9,11 +9,12 @@
 - 🤙: :email: `takzuin at gmail.com` :airplane: [Telegram](https://t.me/Takzuin).
 - 💻: My Distros: `Windows`, `Linux`, `Debian`.
 
-![Takzuin's github stats](https://github-readme-stats.vercel.app/api?username=Takzuin&theme=gruvbox&show_icons=true)
+![Takzuin's github stats](https://github-readme-stats.vercel.app/api?username=Takzuin&theme=radical&show_icons=true)
 
 
 -----
 Credits: [Yogesh](https://github.com/vibrantfix)
 Credits: [ChungZH](https://github.com/ChungZH)
+Credits: [Takzuin](https://github.com/Takzuin)
 
 Last Edited on: 14/11/2024
