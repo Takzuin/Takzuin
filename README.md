@@ -4,7 +4,7 @@
 
  <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 - :hammer_and_pick: C++ / ~~Markdown~~. Qt.
-- :package: Building [Notepanda](https://github.com/ChungZH/notepanda), [pedit](https://github.com/pandaos/pedit), [EasyHexo](https://github.com/EasyHexo/Easy-Hexo) and more.
+- :package: Building [RussianRouletteGame](https://github.com/Takzuin/RussianRouletteGame), [PyCyberSecurity](https://github.com/Takzuin/PyCyberSecurity) and more comming...
 - :pencil2: Arch Linux & fish & VS Code & DDE & Iosevka / JetBrains Mono.
 - :memo: [Blog](https://chungzh.cn) :card_index: [Portfolio](https://chungzh.cc) :email: `chungzh07 at gmail.com` :airplane: [Telegram](https://t.me/realChungZH).
 - :peach: My [Scoop](https://scoop.sh) bucket [peach](https://github.com/ChungZH/peach).
