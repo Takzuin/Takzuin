@@ -3,4 +3,9 @@
 </h1>
 
  <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-
+- 🎓 I am a **student**.
+- 💻 Technology is **Software Development**.
+- 🌱 I'm currently learning **Python**. 
+- 🤔 My hobbies are **listen music 🎵 and play games🎮**.
+- 💬 If you have any questions, **just ask me**.
+- btw I use Linux Distributions
