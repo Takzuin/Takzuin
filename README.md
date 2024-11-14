@@ -13,8 +13,6 @@
 
 
 -----
-Credits: [Yogesh](https://github.com/vibrantfix)
-Credits: [ChungZH](https://github.com/ChungZH)
 Credits: [Takzuin](https://github.com/Takzuin)
 
 Last Edited on: 14/11/2024
