@@ -5,7 +5,7 @@
  <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 - :hammer_and_pick: C++ / ~~Markdown~~. Qt.
 - :package: Building [RussianRouletteGame](https://github.com/Takzuin/RussianRouletteGame), [PyCyberSecurity](https://github.com/Takzuin/PyCyberSecurity) and more comming...
-- :pencil2: Arch Linux & fish & VS Code & DDE & Iosevka / JetBrains Mono.
+- :pencil2: NotePad & VS Code & PyCharm &  Vim.
 - :memo: [Blog](https://chungzh.cn) :card_index: [Portfolio](https://chungzh.cc) :email: `chungzh07 at gmail.com` :airplane: [Telegram](https://t.me/realChungZH).
 - :peach: My [Scoop](https://scoop.sh) bucket [peach](https://github.com/ChungZH/peach).
 
@@ -14,5 +14,6 @@
 
 -----
 Credits: [Yogesh](https://github.com/vibrantfix)
+Credits: [ChungZH](https://github.com/ChungZH)
 
 Last Edited on: 14/11/2024
