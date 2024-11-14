@@ -11,15 +11,6 @@
 - btw I use Linux Distributions
 
 
-!--END_SECTION:waka-->
-<br>
-
-<p align="center"> <img src="https://profile-counter.glitch.me/{vibrantfix}/count.svg" alt="vibrantfix" /> </p>
-
-<a href="https://github.com/vibrantfix#gh-dark-mode-only">
-  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:243694,50:264778,100:427786" alt="Header" width="100%" align = "left"/>
-  </a>
-  
 -----
 Credits: [Yogesh](https://github.com/vibrantfix)
 
