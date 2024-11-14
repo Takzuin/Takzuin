@@ -3,15 +3,16 @@
 </h1>
 
  <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-- 🎓 I am a **student**.
-- 💻 Technology is **Software Development**.
-- 🌱 I'm currently learning **Python**. 
-- 🤔 My hobbies are **listen music 🎵 and play games🎮**.
-- 💬 If you have any questions, **just ask me**.
-- btw I use Linux Distributions
+- :hammer_and_pick: C++ / ~~Markdown~~. Qt.
+- :package: Building [Notepanda](https://github.com/ChungZH/notepanda), [pedit](https://github.com/pandaos/pedit), [EasyHexo](https://github.com/EasyHexo/Easy-Hexo) and more.
+- :pencil2: Arch Linux & fish & VS Code & DDE & Iosevka / JetBrains Mono.
+- :memo: [Blog](https://chungzh.cn) :card_index: [Portfolio](https://chungzh.cc) :email: `chungzh07 at gmail.com` :airplane: [Telegram](https://t.me/realChungZH).
+- :peach: My [Scoop](https://scoop.sh) bucket [peach](https://github.com/ChungZH/peach).
+
+![ChungZH's github stats](https://github-readme-stats.vercel.app/api?username=ChungZH&theme=gruvbox&show_icons=true)
 
 
 -----
 Credits: [Yogesh](https://github.com/vibrantfix)
 
-Last Edited on: 13/04/2023
+Last Edited on: 14/11/2024
