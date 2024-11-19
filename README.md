@@ -11,7 +11,7 @@
 
 ![Takzuin's github stats](https://github-readme-stats.vercel.app/api?username=Takzuin&theme=radical&show_icons=true)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=takzuin&theme=radical)](https://git.io/streak-stats)
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=takzuin&theme=radical" alt="GitHub Streak" /></a>
+
 -----
 Credits: [Takzuin](https://github.com/Takzuin)
 
