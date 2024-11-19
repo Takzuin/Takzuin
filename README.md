@@ -9,7 +9,7 @@
 - 🤙: :email: `takzuin at gmail.com` :airplane: [Telegram](https://t.me/Takzuin).
 - 💻: My Distros: `Windows`, `Linux`, `Debian`.
 
-![Takzuin's github stats](https://github-readme-stats.vercel.app/api?username=Takzuin&theme=neon&show_icons=true)
+![Takzuin's github stats](https://github-readme-stats.vercel.app/api?username=Takzuin&theme=neon)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=takzuin&theme=neon)](https://git.io/streak-stats)
 
 -----
