@@ -12,7 +12,7 @@
 ![Takzuin's github stats](https://github-readme-stats.vercel.app/api?username=Takzuin&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&background=45%2C000000%2C1D0220&show_icons=true)
 [![GitHub Streak](https://streak-stats.demolab.com?user=takzuin&theme=radical)](https://git.io/streak-stats) 
 
-<iframe src="https://github.com/sponsors/Takzuin/button" title="Sponsor Takzuin" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
+
 -----
 Credits: [Takzuin](https://github.com/Takzuin)
 
