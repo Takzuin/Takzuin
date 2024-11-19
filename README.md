@@ -11,6 +11,7 @@
 
 ![Takzuin's github stats](https://github-readme-stats.vercel.app/api?username=Takzuin&theme=radical&show_icons=true)
 
+<img src ="https://github-readme-streak-stats.herokuapp.com?user=subprocezz&theme=material-palenight&hide_border=true&background=FFFFFF00">
 
 -----
 Credits: [Takzuin](https://github.com/Takzuin)
