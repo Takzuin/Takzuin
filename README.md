@@ -3,7 +3,7 @@
 </h1>
 
  <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-- :hammer_and_pick: Python (But Rust lookin nice😵).
+- 🐍 Python, CyberSecurity, Learn to earn.
 - :package: Building [RussianRouletteGame](https://github.com/Takzuin/RussianRouletteGame), [PyCyberSecurity](https://github.com/takzuin/PyCyberSecurity) and more comming...
 - :pencil2: NotePad & VS Code & PyCharm &  Vim.
 - 🤙: :email: `takzuin at gmail.com` :airplane: [Telegram](https://t.me/Takzuin).
