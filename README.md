@@ -10,7 +10,7 @@
 - 💻: My Distros: `Windows`, `Linux`, `Debian`.
 
 ![Takzuin's github stats](https://github-readme-stats.vercel.app/api?username=Takzuin&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&show_icons=true)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Takzuin&theme=radical&hide_border=true)](https://git.io/streak-stats) 
+[![GitHub Streak](https://streak-stats.demolab.com?user=takzuin&theme=radical&hide_border=true)](https://git.io/streak-stats) 
 
 
 
