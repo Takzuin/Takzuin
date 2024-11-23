@@ -6,7 +6,7 @@
 - 🐍 Python, CyberSecurity, Rust?...
 - :package: Building [PyCyberSecurity](https://github.com/takzuin/PyCyberSecurity), [RussianRoulette](https://github.com/Takzuin/RussianRouletteGame) and more comming...
 - :pencil2: NotePad & VS Code & PyCharm &  Vim.
-- 🤙: :email: `takzuin at gmail.com` :airplane: [Telegram](https://t.me/Takzuin).
+- 🤙: [Telegram](https://t.me/Takzuin).
 
 
 ![Takzuin's github stats](https://github-readme-stats.vercel.app/api?username=Takzuin&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&show_icons=true)
