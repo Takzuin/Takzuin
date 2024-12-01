@@ -3,7 +3,7 @@
 </h1>
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> 
 
-About me
+## About me
 - 🐍 Python, CyberSecurity, Rust?...
 - :package: Building [PyCyberSecurity](https://github.com/takzuin/PyCyberSecurity), [RussianRoulette](https://github.com/Takzuin/RussianRouletteGame) and more comming...
 - :pencil2: NotePad & VS Code & PyCharm &  Vim.
