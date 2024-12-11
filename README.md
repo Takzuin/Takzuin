@@ -6,6 +6,7 @@
 # About me
 
 
+
 - 🐍 Python, CyberSecurity, MicroPython, Rust...
 - :package: Building [PyCyberSecurity](https://github.com/takzuin/PyCyberSecurity), [RussianRoulette](https://github.com/Takzuin/RussianRouletteGame) and more comming...
 - :pencil2: NotePad & VS Code & PyCharm &  Vim.
